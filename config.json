@@ -1,0 +1,4 @@
+{
+    "DataPath": "./data/building-ideas.csv",
+    "WebhookUrl": "YOUR WEBHOOK URL HERE"
+}
